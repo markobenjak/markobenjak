@@ -24,7 +24,7 @@
     </nav>
       <div class="container-fluid containerImage">
         <div class="row justify-content-center headerRow">
-          <div class="col-3">
+          <div class="col-3 picture">
             <img class="d-block w-100 h-100" src="./assets/images/event.jpg" alt="First slide">         
           </div>
           <div class="col-3 aboutMe">
@@ -458,7 +458,7 @@ padding-left: 0;
   padding-right: 0;
   padding-left: 0;
 }
-.col-3{
+.picture{
   padding-right: 0;
   padding-left: 0;
 }
