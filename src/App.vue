@@ -92,14 +92,17 @@
         </div>
       </div>
       <div class="row justify-content-center">
-        <div class="col-6 text-center">
-          <h3>Hello I am Marko!</h3>
-          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-             when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-             It has survived not only five centuries, but also the leap into electronic typesetting, 
-             remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets 
-             containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+        <div class="col-3 text-center">
+          <h3>Greetings!</h3>
+          <p>I'm Marko, a dedicated and results-driven software developer with a passion for crafting robust solutions through the power of Java.
+             With a strong foundation in software engineering,
+              I bring multiple years of hands-on experience in developing scalable and efficient applications. 
+            
+              I am excited about the prospect of contributing my skills and experience to new and challenging projects.
+               Feel free to explore my portfolio and resume for a more in-depth look at my professional journey.
+                If you have any inquiries or opportunities for collaboration, don't hesitate to get in touch.
+            
+            </p>
         </div>
       </div>
     </div>
@@ -116,7 +119,10 @@
         </div>
         <div class="col-6 text-start">
           <h5>Zagreb University of Applied Sciences</h5>
-          <p>The program is designed to train you to become an important member of any engineering and other professional team in the field of organization, e-business and IT design. This program can also help you become involved in early stages of project development where critical decisions are taken and where your contribution will be appreciated.</p>
+          <p style="font-size: 15px;">This program has uniquely prepared me to be a key member of engineering and professional teams, specializing in organization, e-business, and IT design.
+             Through comprehensive training, I've acquired the skills to contribute significantly in the early stages of project development,
+              where critical decisions are made. This experience has not only enhanced my abilities but also positioned me as a valuable asset,
+               ensuring that my contributions are appreciated in dynamic project environments.</p>
         </div>
       </div>
       <div class="row justify-content-center shadow-sm  p-3 mb-4 bg-body rounded">
@@ -126,7 +132,10 @@
         </div>
         <div class="col-6 text-start">
           <h5>Zagreb University of Applied Sciences</h5>
-          <p>As a Master of Engineering in Information Technology, you will have acquired the knowledge and skills necessary to develop and maintain complex information systems. By working on projects in the course of your studies, you will learn about many technologies, approaches and tools for solving practical problems and will as such be recognized as a valuable member of any team. In addition, the knowledge obtained will allow you to obtain further education and follow technological and professional trends.</p>
+          <p style="font-size: 15px;">With a Master's in Engineering in Information Technology, I've gained the expertise to develop and manage intricate information systems.
+             Through hands-on projects, I've explored diverse technologies and problem-solving approaches, making me a valuable team member.
+             This knowledge not only positions me as an asset within teams but also equips me to pursue continuous education and stay abreast of evolving technological trends.
+          </p>
         </div>
       </div>
     </div>
@@ -143,7 +152,13 @@
         </div>
         <div class="col-6 text-start">
           <h5>ZMS info</h5>
-          <p>The program is designed to train you to become an important member of any engineering and other professional team in the field of organization, e-business and IT design. This program can also help you become involved in early stages of project development where critical decisions are taken and where your contribution will be appreciated.</p>
+          <p style="font-size: 15px;">
+            In my first IT role at ZMS, I worked as Software Developer, which was focused on payments, banks and overall finance industry.
+            This position provided hands-on experience in <strong>Java, SQL, Vue.js, Linux, Bash and Perl</strong>,
+            allowing me to develop strong skills in troubleshooting, system administration, day to day client activities and to get the sense of development environments.
+            Notably, I was a part of a small team dedicated to one of the biggest payment provider in Greece, alongside moving deprecated desktop applications to Web and REST.
+            This experience laid a solid foundation for my growth in IT,
+            emphasizing proactive problem-solving and a commitment to staying current with emerging technologies.</p>
         </div>
       </div>
       <div class="row justify-content-center shadow-sm p-3 mb-4 bg-body rounded">
@@ -153,7 +168,8 @@
         </div>
         <div class="col-6 text-start">
           <h5>Telus International</h5>
-          <p>As a Master of Engineering in Information Technology, you will have acquired the knowledge and skills necessary to develop and maintain complex information systems. By working on projects in the course of your studies, you will learn about many technologies, approaches and tools for solving practical problems and will as such be recognized as a valuable member of any team. In addition, the knowledge obtained will allow you to obtain further education and follow technological and professional trends.</p>
+          <p>At Telus I worked as Data Analyst on different Maps projects. I developed the sense of data validation and critical thinking.
+          </p>
         </div>
       </div>
       <div class="row justify-content-center shadow-sm p-3 mb-4 bg-body rounded">
@@ -181,14 +197,17 @@
           </div>
         </div>
       </div>
-      <div class="row justify-content-center shadow-sm p-3 mb-4 bg-body rounded">
+      <div class="row justify-content-center shadow p-3 mb-4 bg-body rounded">
         <div class="col-5 text-end">
           <h5>2021-</h5>
           <p>Software Developer</p>
         </div>
         <div class="col-6 text-start">
           <h5>Dhimahi</h5>
-          <p>As a Master of Engineering in Information Technology, you will have acquired the knowledge and skills necessary to develop and maintain complex information systems. By working on projects in the course of your studies, you will learn about many technologies, approaches and tools for solving practical problems and will as such be recognized as a valuable member of any team. In addition, the knowledge obtained will allow you to obtain further education and follow technological and professional trends.</p>
+          <p>My current role is Java Developer at Dhimahi.
+             I am a part of a team which handles ticketing for different European countries.
+              This position is providing me with hands-on experience with <strong>Java and Spring, Microservices, Git, Vue.js, Docker, Kafka</strong> 
+              and overall event driven software on a huge scale. On a daily basis I am developing and learning new skills, alongside critical thinking in agile environment. </p>
         </div>
       </div>
     </div>
@@ -212,6 +231,9 @@
           <div class="progress">
             <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 40%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">Linux</div>
           </div>
+          <div class="progress">
+            <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 90%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">Unit tests</div>
+          </div>
         </div>
         <div class="col-4 text-center">
           <div class="progress">
@@ -226,6 +248,9 @@
           <div class="progress">
             <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 50%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">Docker</div>
           </div>
+          <div class="progress">
+            <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">Microservices</div>
+          </div>
         </div>
       </div>
     </div>
@@ -236,17 +261,19 @@
         </div>
       </div>
       <div class="row justify-content-center shadow-sm p-3 mb-4 bg-body rounded">
-        <div class="col-3 text-center">
-          <h5>Expertise 1</h5>
-          <p>The program is designed to train you to become an important member of any engineering and other professional team in the field of organization, e-business and IT design. This program can also help you become involved in early stages of project development where critical decisions are taken and where your contribution will be appreciated.</p>
+        <div class="col-5 text-center">
+          <h5>Java and Microservices</h5>
+          <p>I specialize in Java and Spring with a focus on Microservices architecture.
+             I've gained hands-on experience with Git, Docker, Kafka, 
+             and large-scale event-driven software. This dynamic system sharpens my technical proficiency and underscores my commitment
+              to continuous development, learning new skills, and applying critical thinking in an agile environment..</p>
         </div>
-        <div class="col-3 text-center">
-          <h5>Expertise 1</h5>
-          <p>The program is designed to train you to become an important member of any engineering and other professional team in the field of organization, e-business and IT design. This program can also help you become involved in early stages of project development where critical decisions are taken and where your contribution will be appreciated.</p>
-        </div>
-        <div class="col-3 text-center">
-          <h5>Expertise 1</h5>
-          <p>The program is designed to train you to become an important member of any engineering and other professional team in the field of organization, e-business and IT design. This program can also help you become involved in early stages of project development where critical decisions are taken and where your contribution will be appreciated.</p>
+        <div class="col-5 text-center">
+          <h5>Frontend Development with Vue.js</h5>
+          <p> I've adeptly utilized Vue.js to create dynamic and responsive web applications.
+             Proficient in building seamless user experiences, I bring a keen eye for design and a commitment to staying current with frontend technologies.
+              Whether enhancing user interactions or collaborating within agile environments, my dedication to frontend development,
+             particularly with Vue.js, ensures the delivery of visually appealing and user-friendly solutions.</p>
         </div>
       </div>
     </div>
@@ -265,23 +292,23 @@
             <div class="row">
               <div class="col">
                 <input type="text" id="firstName" name="firstName" v-model="firstName" class="form-control" autocomplete="given-name" required />
-                <label class="form-label" for="firstName">First Name</label>
+                <label class="form-label" for="firstName">First Name<span v-if="v$.firstName.$error"> is required</span></label>
               </div>
               <div class="col">
                 <input type="text" id="lastName" name="lastName" v-model="lastName" autocomplete="family-name" class="form-control" required />
-                <label class="form-label" for="lastName">Last Name</label>
+                <label class="form-label" for="lastName">Last Name<span v-if="v$.lastName.$error"> is required</span></label>
               </div>
             </div>
 
             <div class="">
               <input type="email" id="email" name="email" v-model="email" class="form-control" autocomplete="off" required />
-              <label class="form-label" for="email">E-mail</label>
+              <label class="form-label" for="email">E-mail<span v-if="v$.email.$error"> is required</span></label>
             </div>
 
             <!-- Message input -->
             <div class="">
               <textarea class="form-control" id="message" v-model="message" name="message" autocomplete="off" rows="4" required></textarea>
-              <label class="form-label" for="message">Message</label>
+              <label class="form-label" for="message">Message<span v-if="v$.message.$error"> is required</span></label>
             </div>
             <!-- Submit button -->
             <button type="button" @click="sendEmail()" data-dismiss="alert" class="form-control btn btn-lg btn-block sendButton">Send</button>
@@ -317,8 +344,15 @@
 </template>
 
 <script>
+import emailjs from 'emailjs-com';
+import { useVuelidate } from '@vuelidate/core'
+import { required } from '@vuelidate/validators'
+
 export default {
-    setup () {
+  setup () {
+      return {
+        v$: useVuelidate()
+      }
     },
     data() {
       return{
@@ -327,17 +361,49 @@ export default {
         firstName: '',
         lastName: '',
         email: '',
-        message: ''
-
+        message: '',
+        showAlertSuccess: false,
+        showAlertFail: false
       }
     },
     validations () {
-     
+      return {
+        firstName: { required },
+        lastName: { required },
+        email: { required},
+        message: {required}
+      }
     },
     mounted(){
       window.addEventListener('scroll', this.handleScroll);
     },
     methods: {
+      async sendEmail() {
+        const isFormCorrect = await this.v$.$validate()
+
+        if (isFormCorrect){
+          emailjs.sendForm(import.meta.env.VITE_EMAIL_SERVICE_ID, import.meta.env.VITE_EMAIL_TEMPLATE_ID, this.$refs.form, import.meta.env.VITE_EMAIL_USER_ID,
+          {
+            firstName: this.firstName,
+            lastName: this.lastName,
+            email: this.email,
+            message: this.message
+          }).then((result) => {
+            this.showAlertSuccess = true;
+          }, (error) => {
+            this.showAlertFail = true;
+          });
+            this.firstName = '';
+            this.email = '';
+            this.message = '';
+            this.lastName = '';
+          setTimeout(() => {
+            this.showAlertSuccess = false;
+            this.showAlertFail = false;
+          }
+          , 3000);
+        }
+      },
       handleScroll() {
         if (this.scTimer) return;
         this.scTimer = setTimeout(() => {
@@ -364,8 +430,9 @@ export default {
 .formContainer{
   border-right: 1px solid white;
 }
-main, a{
+main, a, button{
   color: #38302f;
+  font-family: andale mono, monospace;
 
 }
 .contactMe > .row {
@@ -393,9 +460,7 @@ main, a{
   background-color: rgb(241, 241, 241);
 
 }
-.socialsContainer > div:nth-child(2){
-  margin-top: 2%;
-}
+
 .favicons{
   color: #38302f;
 }
