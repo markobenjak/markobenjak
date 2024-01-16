@@ -25,53 +25,28 @@
       <div class="container-fluid containerImage">
         <div class="row justify-content-center headerRow">
           <div class="col-3">
-            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-              <ol class="carousel-indicators">
-                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-              </ol>
-              <div class="carousel-inner">
-                <div class="carousel-item active">
-                  <img class="d-block w-100 h-100" src="./assets/images/event.jpg" alt="First slide">
-                </div>
-                <div class="carousel-item">
-                  <img class="d-block w-100" src="..." alt="Second slide">
-                </div>
-                <div class="carousel-item">
-                  <img class="d-block w-100" src="..." alt="Third slide">
-                </div>
-              </div>
-              <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-              </a>
-              <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-              </a>
-            </div>          
+            <img class="d-block w-100 h-100" src="./assets/images/event.jpg" alt="First slide">         
           </div>
           <div class="col-3 aboutMe">
             <div class="row">
               <div class="col-8">
-                <h3>Marko Benjak, M.Eng. IT</h3>
+                <h3><strong>Marko Benjak, M.Eng. IT</strong></h3>
                 <p>Software Developer</p>
               </div>
               <div class="col-8">
-                <h6>Phone:</h6>
+                <h6><strong>Phone:</strong></h6>
                 <p>+385981787862</p>
               </div>
               <div class="col-8">
-                <h6>Email:</h6>
+                <h6><strong>E-mail:</strong></h6>
                 <p>marko.benjak@gmail.com</p>
               </div>
               <div class="col-8">
-                <h6>Address:</h6>
+                <h6><strong>Address:</strong></h6>
                 <p>Zagreb, Croatia</p>
               </div>
               <div class="col-8">
-                <h6>Date of birth:</h6>
+                <h6><strong>Date of birth:</strong></h6>
                 <p>August 17th, 1996</p>
               </div>
             </div>
@@ -155,7 +130,7 @@
           <p style="font-size: 15px;">
             In my first IT role at ZMS, I worked as Software Developer, which was focused on payments, banks and overall finance industry.
             This position provided hands-on experience in <strong>Java, SQL, Vue.js, Linux, Bash and Perl</strong>,
-            allowing me to develop strong skills in troubleshooting, system administration, day to day client activities and to get the sense of development environments.
+            allowing me to develop strong skills in troubleshooting, system administration, day-to-day client activities and to get the sense of development environments.
             Notably, I was a part of a small team dedicated to one of the biggest payment provider in Greece, alongside moving deprecated desktop applications to Web and REST.
             This experience laid a solid foundation for my growth in IT,
             emphasizing proactive problem-solving and a commitment to staying current with emerging technologies.</p>
@@ -271,7 +246,7 @@
         <div class="col-5 text-center">
           <h5>Frontend Development with Vue.js</h5>
           <p> I've adeptly utilized Vue.js to create dynamic and responsive web applications.
-             Proficient in building seamless user experiences, I bring a keen eye for design and a commitment to staying current with frontend technologies.
+             Proficient in building seamless user experiences, I bring a keen eye for design and a commitment to stay up to date with frontend technologies.
               Whether enhancing user interactions or collaborating within agile environments, my dedication to frontend development,
              particularly with Vue.js, ensures the delivery of visually appealing and user-friendly solutions.</p>
         </div>
@@ -315,11 +290,11 @@
           </form>
         </div>
         <div class="col-3 text-start p-5 contactInfo">
-          <h3>Marko benjak</h3>
+          <h3><strong>Marko Benjak</strong></h3>
           <p>Software Developer</p>
-          <h6>Phone</h6>
+          <h6><strong>Phone</strong></h6>
           <p>+385981787862</p>
-          <h6>E-mail</h6>
+          <h6><strong>E-mail</strong></h6>
           <p>marko.benjak@gmail.com</p>
           <hr class="featurette-divider">      
           <a class="btn btn-link btn-floating btn-lg favicons" href="https://www.linkedin.com/in/marko-benjak-677261185/" target="_blank" role="button"
