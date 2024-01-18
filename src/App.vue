@@ -126,7 +126,7 @@
       </div>
       <div class="row justify-content-center shadow-sm p-3 mb-4 bg-body rounded">
         <div class="col-5 text-end">
-          <h5>2018-2021</h5>
+          <h5>2018-2022</h5>
           <p>Software Developer</p>
         </div>
         <div class="col-6 text-start">
