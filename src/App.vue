@@ -240,14 +240,14 @@
         </div>
       </div>
       <div class="row justify-content-center shadow-sm p-3 mb-4 bg-body rounded">
-        <div class="col-4 text-center">
+        <div class="col-5 text-center">
           <h5>Java and Microservices</h5>
           <p>I specialize in Java and Spring with a focus on Microservices architecture.
              I've gained hands-on experience with Git, Docker, Kafka, 
              and large-scale event-driven software. This dynamic system sharpens my technical proficiency and underscores my commitment
               to continuous development, learning new skills, and applying critical thinking in an agile environment..</p>
         </div>
-        <div class="col-4 text-center">
+        <div class="col-5 text-center">
           <h5>Frontend Development with Vue.js</h5>
           <p> I've adeptly utilized Vue.js to create dynamic and responsive web applications.
              Proficient in building seamless user experiences, I bring a keen eye for design and a commitment to stay up to date with frontend technologies.

@@ -3,6 +3,8 @@
 My name is Marko and I am Fullstack developer. Currently I am working as Java developer with occasional venture to Vue.js realms.
 I also have few private projects and I wrote couple of articles. You can find them [HERE](https://markobenjak.com)
 
+
+
 <!--
 **markobenjak/markobenjak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
